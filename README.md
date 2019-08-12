@@ -2,4 +2,4 @@
 
 New repository
 
-From GitExtensions
+From GitExtensions for Summa Solutions
