@@ -6,3 +6,5 @@ New repository
 From GitExtensions
 
 ## Live DEMO
+
+Added details
